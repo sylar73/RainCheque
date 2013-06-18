@@ -4,9 +4,12 @@ import android.os.Bundle;
 import android.app.Activity;
 import android.view.Menu;
 
+<<<<<<< HEAD
 // test
 // This was edited by sylar
 
+=======
+>>>>>>> 2cd5fc9af057014f7e891146625459829f8265d1
 public class ControlBoardActivity extends Activity 
 {
 
