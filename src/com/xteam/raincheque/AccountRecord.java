@@ -9,5 +9,44 @@ public class AccountRecord implements Serializable
 	int paid;
 	int worth;
 	int settlement;
+	public String getName() 
+	{
+		return name;
+	}
+	
+	public void setName(String name) 
+	{
+		this.name = name;
+	}
+	
+	public int getPaid() 
+	{
+		return paid;
+	}
+	
+	public void setPaid(int paid) 
+	{
+		this.paid = paid;
+	}
+	
+	public int getWorth() 
+	{
+		return worth;
+	}
+	
+	public void setWorth(int worth) 
+	{
+		this.worth = worth;
+	}
+	
+	public int getSettlement() 
+	{
+		return settlement;
+	}
+	
+	public void setSettlement(int settlement) 
+	{
+		this.settlement = settlement;
+	}
 
 }
