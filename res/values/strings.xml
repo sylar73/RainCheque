@@ -3,6 +3,13 @@
 
     <string name="app_name">RainCheque</string>
     <string name="action_settings">Settings</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="enter_paid">Enter paid amt</string>
+    <string name="title_activity_control_board">ControlBoardActivity</string>
+    <string name="menu_settings">Settings</string>
+    <string name="new_session">Start a new session</string>
+    <string name="end_ssession">End session</string>
+    <string name="title_activity_add_account_record">AddAccountRecordActivity</string>
+    <string name="enter_name">Enter Name :</string>
+    <string name="paymentinfo">%1$s has paid Rs.%2$s to %3$s</string>
 
 </resources>
